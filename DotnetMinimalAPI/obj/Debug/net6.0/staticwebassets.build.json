@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r9Z2dkWxf5duDMwFR/tye4z2deeSAz7JVvjubIhCv5I=",
+  "Source": "DotnetMinimalAPI",
+  "BasePath": "_content/DotnetMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
